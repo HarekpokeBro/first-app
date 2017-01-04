@@ -13,7 +13,6 @@
         PhoneGap Team , anvendt af Lone Osterlund
     </author>
 	
-	<content src="calculatorapp.js" />
     <content src="index.html" />
 
     
