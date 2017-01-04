@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 
 
-<widget id="com.test" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="app1" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
    
 
    
-	<name>Test</name>
+	<name>Calculator</name>
     <description>
-        Test af at fremstille en app med html og javascript
+		lavet af søren, app nummer 1
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
         PhoneGap Team , anvendt af Lone Osterlund
     </author>
 	
-	<content src="hovedregning.html" />
+	<content src="calculatorapp.js" />
     <content src="index.html" />
 
     
